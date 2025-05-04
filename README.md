@@ -7,9 +7,10 @@
 ## 📊 GitHub Activity & Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchenkoSofia&theme=nightowl" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchenkoSofia&layout=compact&theme=nightowl" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=MarchenkoSofia&border_radius=5&background=FFFFFF&border=DD01FF&ring=DD01FF&fire=DD01FF&currStreakNum=FF8503&stroke=DD01FF&sideNums=FF8503&currStreakLabel=FF8503&sideLabels=FF8503&dates=DD01FF&excludeDaysLabel=FF8503" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchenkoSofia&layout=compact&bg_color=ffffff&title_color=DD01FF&border_color=DD01FF&text_color=000000" height="200"/>
 </p>
+
 
 -------------
 ### :hammer_and_wrench: Languages and Tools :
@@ -34,4 +35,5 @@
 </a>
 
 
-<img src="https://komarev.com/ghpvc/?username=MarchenkoSofia&style=flat-square&color=blueviolet" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=MarchenkoSofia&style=flat-square&color=DD01FF" alt="Profile views"/>
+
