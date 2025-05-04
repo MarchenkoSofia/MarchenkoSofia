@@ -7,7 +7,7 @@
 ## 📊 GitHub Activity & Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchenkoSofia&theme=nightowl" height="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarchenkoSofia&theme=nightowl" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchenkoSofia&layout=compact&theme=nightowl" height="200"/>
 </p>
 
