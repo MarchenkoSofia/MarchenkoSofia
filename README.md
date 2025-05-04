@@ -1,9 +1,9 @@
 # 👋 Hi there! I'm Sofya Marchenko
----------
+
 🎓 I'm a student at Samara University passionate about software development and algorithms.  
 🔧 Currently learning Java, C++, and Python.  
 
----------
+
 ## 📊 GitHub Activity & Languages
 
 <p align="center">
