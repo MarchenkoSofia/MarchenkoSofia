@@ -7,7 +7,8 @@
 ## 📊 GitHub Activity & Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarchenkoSofia&border_radius=5&background=FFFFFF&border=DD01FF&ring=DD01FF&fire=DD01FF&currStreakNum=FF8503&stroke=DD01FF&sideNums=FF8503&currStreakLabel=FF8503&sideLabels=FF8503&dates=DD01FF&excludeDaysLabel=FF8503" height="200"/>
+<!--   <img src="https://streak-stats.demolab.com?user=MarchenkoSofia&border_radius=5&background=FFFFFF&border=DD01FF&ring=DD01FF&fire=DD01FF&currStreakNum=FF8503&stroke=DD01FF&sideNums=FF8503&currStreakLabel=FF8503&sideLabels=FF8503&dates=DD01FF&excludeDaysLabel=FF8503" height="200"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=MarchenkoSofia&border_color=DD01FF&text_color=DD01FF&title_color=FF8503&icon_color=FF8503" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarchenkoSofia&layout=compact&bg_color=ffffff&title_color=DD01FF&border_color=DD01FF&text_color=000000" height="200"/>
 </p>
 
